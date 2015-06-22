@@ -1,0 +1,12 @@
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRatio\MyRatio\bin\Debug\MyRatio.exe.config
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRatio\MyRatio\bin\Debug\MyRatio.exe
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRatio\MyRatio\bin\Debug\MyRatio.pdb
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRatio\MyRatio\obj\Debug\MyRatio.exe
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRatio\MyRatio\obj\Debug\MyRatio.pdb
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRatio\MyRatio\obj\Debug\MyRatio.csprojResolveAssemblyReference.cache
+E:\C#\MyRatio\MyRatio\bin\Debug\MyRatio.exe.config
+E:\C#\MyRatio\MyRatio\obj\Debug\MyRatio.exe
+E:\C#\MyRatio\MyRatio\obj\Debug\MyRatio.pdb
+E:\C#\MyRatio\MyRatio\bin\Debug\MyRatio.exe
+E:\C#\MyRatio\MyRatio\bin\Debug\MyRatio.pdb
+E:\C#\MyRatio\MyRatio\obj\Debug\MyRatio.csprojResolveAssemblyReference.cache
