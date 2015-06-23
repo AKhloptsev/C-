@@ -1,0 +1,23 @@
+E:\C#\ForTest\ForTest\bin\Debug\ForTest.exe.config
+E:\C#\ForTest\ForTest\bin\Debug\ForTest.exe
+E:\C#\ForTest\ForTest\bin\Debug\ForTest.pdb
+E:\C#\ForTest\ForTest\obj\Debug\ForTest.Form1.resources
+E:\C#\ForTest\ForTest\obj\Debug\ForTest.Form2.resources
+E:\C#\ForTest\ForTest\obj\Debug\ForTest.Properties.Resources.resources
+E:\C#\ForTest\ForTest\obj\Debug\ForTest.csproj.GenerateResource.Cache
+E:\C#\ForTest\ForTest\obj\Debug\ForTest.exe
+E:\C#\ForTest\ForTest\obj\Debug\ForTest.pdb
+E:\C#\ForTest\ForTest\obj\Debug\ForTest.csprojResolveAssemblyReference.cache
+E:\C#\Point in triangle work\ForTest\bin\Debug\ForTest.exe.config
+E:\C#\Point in triangle work\ForTest\obj\Debug\ForTest.exe
+E:\C#\Point in triangle work\ForTest\obj\Debug\ForTest.pdb
+E:\C#\Point in triangle work\ForTest\bin\Debug\ForTest.exe
+E:\C#\Point in triangle work\ForTest\bin\Debug\ForTest.pdb
+E:\C#\Point in triangle work\ForTest\obj\Debug\ForTest.csprojResolveAssemblyReference.cache
+E:\C#\Point in triangle work\ForTest\obj\Debug\ForTest.Form1.resources
+E:\C#\Point in triangle work\ForTest\obj\Debug\ForTest.Form2.resources
+E:\C#\Point in triangle work\ForTest\obj\Debug\ForTest.Properties.Resources.resources
+E:\C#\Point in triangle work\ForTest\obj\Debug\ForTest.csproj.GenerateResource.Cache
+E:\C#\Point in triangle\ForTest\bin\Debug\ForTest.exe.config
+E:\C#\Point in triangle\ForTest\obj\Debug\ForTest.exe
+E:\C#\Point in triangle\ForTest\obj\Debug\ForTest.pdb
