@@ -1,0 +1,12 @@
+D:\C#\MyLake\MyLake\bin\Debug\MyLake.exe.config
+D:\C#\MyLake\MyLake\obj\Debug\MyLake.csprojResolveAssemblyReference.cache
+D:\C#\MyLake\MyLake\bin\Debug\MyLake.exe
+D:\C#\MyLake\MyLake\bin\Debug\MyLake.pdb
+D:\C#\MyLake\MyLake\obj\Debug\MyLake.exe
+D:\C#\MyLake\MyLake\obj\Debug\MyLake.pdb
+E:\C#\MyLake\MyLake\bin\Debug\MyLake.exe.config
+E:\C#\MyLake\MyLake\obj\Debug\MyLake.exe
+E:\C#\MyLake\MyLake\obj\Debug\MyLake.pdb
+E:\C#\MyLake\MyLake\bin\Debug\MyLake.exe
+E:\C#\MyLake\MyLake\bin\Debug\MyLake.pdb
+E:\C#\MyLake\MyLake\obj\Debug\MyLake.csprojResolveAssemblyReference.cache
