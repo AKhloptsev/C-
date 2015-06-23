@@ -1,0 +1,21 @@
+D:\(users)\cpp-1-14\Хлопцев Алексей\ArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe.config
+D:\(users)\cpp-1-14\Хлопцев Алексей\ArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe
+D:\(users)\cpp-1-14\Хлопцев Алексей\ArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.pdb
+D:\(users)\cpp-1-14\Хлопцев Алексей\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.csprojResolveAssemblyReference.cache
+D:\(users)\cpp-1-14\Хлопцев Алексей\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.exe
+D:\(users)\cpp-1-14\Хлопцев Алексей\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.pdb
+D:\C#\ArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe.config
+D:\C#\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.exe
+D:\C#\ArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.pdb
+D:\C#\Safe2xArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe.config
+D:\C#\Safe2xArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.exe
+D:\C#\Safe2xArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.pdb
+D:\C#\Safe2xArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.csprojResolveAssemblyReference.cache
+D:\C#\Safe2xArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe
+D:\C#\Safe2xArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.pdb
+E:\C#\Safe2xArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe.config
+E:\C#\Safe2xArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.exe
+E:\C#\Safe2xArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.pdb
+E:\C#\Safe2xArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.exe
+E:\C#\Safe2xArrayCSharp\ArrayCSharp\bin\Debug\ArrayCSharp.pdb
+E:\C#\Safe2xArrayCSharp\ArrayCSharp\obj\Debug\ArrayCSharp.csprojResolveAssemblyReference.cache
