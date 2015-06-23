@@ -1,0 +1,27 @@
+E:\C#\Bubble\Bubble\bin\Debug\Bubble.exe.config
+E:\C#\Bubble\Bubble\obj\Debug\Bubble.csprojResolveAssemblyReference.cache
+E:\C#\Bubble\Bubble\obj\Debug\Bubble.Form1.resources
+E:\C#\Bubble\Bubble\obj\Debug\Bubble.Properties.Resources.resources
+E:\C#\Bubble\Bubble\obj\Debug\Bubble.csproj.GenerateResource.Cache
+E:\C#\Bubble\Bubble\bin\Debug\Bubble.exe
+E:\C#\Bubble\Bubble\bin\Debug\Bubble.pdb
+E:\C#\Bubble\Bubble\obj\Debug\Bubble.exe
+E:\C#\Bubble\Bubble\obj\Debug\Bubble.pdb
+E:\C#\Bubble — копия\Bubble\bin\Debug\Bubble.exe.config
+E:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.exe
+E:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.pdb
+E:\C#\Bubble — копия\Bubble\bin\Debug\Bubble.exe
+E:\C#\Bubble — копия\Bubble\bin\Debug\Bubble.pdb
+E:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.csprojResolveAssemblyReference.cache
+E:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.Form1.resources
+E:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.Properties.Resources.resources
+E:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.csproj.GenerateResource.Cache
+D:\C#\Bubble — копия\Bubble\bin\Debug\Bubble.exe.config
+D:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.exe
+D:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.pdb
+D:\C#\Bubble — копия\Bubble\bin\Debug\Bubble.exe
+D:\C#\Bubble — копия\Bubble\bin\Debug\Bubble.pdb
+D:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.csprojResolveAssemblyReference.cache
+D:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.Form1.resources
+D:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.Properties.Resources.resources
+D:\C#\Bubble — копия\Bubble\obj\Debug\Bubble.csproj.GenerateResource.Cache

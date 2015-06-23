@@ -1,0 +1,9 @@
+E:\C#\Arcanoid\Bubble\bin\Debug\Bubble.exe.config
+E:\C#\Arcanoid\Bubble\obj\Debug\Bubble.exe
+E:\C#\Arcanoid\Bubble\obj\Debug\Bubble.pdb
+E:\C#\Arcanoid\Bubble\bin\Debug\Bubble.exe
+E:\C#\Arcanoid\Bubble\bin\Debug\Bubble.pdb
+E:\C#\Arcanoid\Bubble\obj\Debug\Arcanoid.csprojResolveAssemblyReference.cache
+E:\C#\Arcanoid\Bubble\obj\Debug\Bubble.Form1.resources
+E:\C#\Arcanoid\Bubble\obj\Debug\Bubble.Properties.Resources.resources
+E:\C#\Arcanoid\Bubble\obj\Debug\Arcanoid.csproj.GenerateResource.Cache
