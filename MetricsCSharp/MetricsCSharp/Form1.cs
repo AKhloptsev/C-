@@ -14,24 +14,24 @@ namespace MetricsCSharp
         // Program to convert inchs and centimeters
         private void button1_Click(object sender, EventArgs e)
         {
-            string str = "";
-            str = textBoxInputString.Text;
-            // regular expression
+            string inputString = "";
+            inputString = textBoxInputString.Text;
+            // re = regular expression
             string re = "(([0-9]+[.,]*[0-9]*)|([0-9]*[.,]*[0-9]+)) ((cm)|(in))";
-            if (str != Regex.Match(str, re).ToString())
+            if (inputString != Regex.Match(inputString, re).ToString())
             {
                 textBoxResult.Text = "Verification Error";
                 errorProvider1.SetError(textBoxInputString, "Wrong format");
             }
             else
             {
-                float number = 0;  // for
-                string[] s = str.Split('.');
+                float number = 0;
+                string[] substringArray = inputString.Split('.');
                 // change '.' to ','
-                str = s[0] + ',' + s[1];
+                inputString = substringArray[0] + ',' + substringArray[1];
                 try
                 {
-                    number = Convert.ToSingle(str.Substring(0, str.Length - 3));    // number = str - 3 symbols (" cm|in")
+                    number = Convert.ToSingle(inputString.Substring(0, inputString.Length - 3));    // number = str - 3 symbols (" cm|in")
                     if (number < 0f)
                     {
                         textBoxResult.Text = "Validation Error";
@@ -43,9 +43,9 @@ namespace MetricsCSharp
                     textBoxResult.Text = ex.Message;
                 }
 
-                float result = 0f;
+                float result = 0f;      // Stores result of transfer
                 bool bFlag = false;
-                if (str.Substring(str.Length - 1, 1) == "m")    // if last symbol = 'm' ("cm")
+                if (inputString.Substring(inputString.Length - 1, 1) == "m")    // if last symbol = 'm' ("cm")
                 {
                     result = number / 2.54f;
                     bFlag = true;
