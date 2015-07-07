@@ -1,0 +1,12 @@
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\bin\Debug\MyRegex.exe.config
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\bin\Debug\MyRegex.exe
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\bin\Debug\MyRegex.pdb
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\obj\Debug\MyRegex.csprojResolveAssemblyReference.cache
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\obj\Debug\MyRegex.Form1.resources
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\obj\Debug\MyRegex.Properties.Resources.resources
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\obj\Debug\MyRegex.csproj.GenerateResource.Cache
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\obj\Debug\MyRegex.exe
+D:\(users)\cpp-1-14\Хлопцев Алексей\C#\MyRegex\MyRegex\obj\Debug\MyRegex.pdb
+E:\C#\MyRegex\MyRegex\bin\Debug\MyRegex.exe.config
+E:\C#\MyRegex\MyRegex\obj\Debug\MyRegex.exe
+E:\C#\MyRegex\MyRegex\obj\Debug\MyRegex.pdb
