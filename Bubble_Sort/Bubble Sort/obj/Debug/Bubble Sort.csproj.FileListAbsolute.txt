@@ -1,0 +1,18 @@
+D:\C#\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+D:\C#\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+D:\C#\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+D:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csprojResolveAssemblyReference.cache
+D:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble_Sort.Properties.Resources.resources
+D:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.GenerateResource.Cache
+D:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+D:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb
+E:\C#\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe.config
+E:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.exe
+E:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.pdb
+E:\C#\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.exe
+E:\C#\Bubble Sort\Bubble Sort\bin\Debug\Bubble Sort.pdb
+E:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csprojResolveAssemblyReference.cache
+E:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble_Sort.Form1.resources
+E:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble_Sort.Properties.Resources.resources
+E:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble Sort.csproj.GenerateResource.Cache
+D:\C#\Bubble Sort\Bubble Sort\obj\Debug\Bubble_Sort.MainForm.resources
