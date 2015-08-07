@@ -1,0 +1,10 @@
+E:\C#\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe.config
+E:\C#\MyExplorer\MyExplorer\bin\Debug\MyExplorer.exe
+E:\C#\MyExplorer\MyExplorer\bin\Debug\MyExplorer.pdb
+E:\C#\MyExplorer\MyExplorer\obj\Debug\MyExplorer.MainForm.resources
+E:\C#\MyExplorer\MyExplorer\obj\Debug\MyExplorer.Properties.Resources.resources
+E:\C#\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csproj.GenerateResource.Cache
+E:\C#\MyExplorer\MyExplorer\obj\Debug\MyExplorer.exe
+E:\C#\MyExplorer\MyExplorer\obj\Debug\MyExplorer.pdb
+E:\C#\MyExplorer\MyExplorer\obj\Debug\MyExplorer.csprojResolveAssemblyReference.cache
+E:\C#\MyExplorer\MyExplorer\obj\Debug\MyExplorer.FormAbout.resources
